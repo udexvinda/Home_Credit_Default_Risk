@@ -2,7 +2,7 @@
 
 # Can you predict how capable each applicant is of repaying a loan?
 
-# Data Source from Home Credit Group
+# Data Source: Home Credit Group
 
 Data Description
 
