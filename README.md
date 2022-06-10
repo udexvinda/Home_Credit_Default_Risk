@@ -1,14 +1,12 @@
-# Home_Credit_Default_Risk
-
-# Can you predict how capable each applicant is of repaying a loan?
-
-# Data Source: Home Credit Group
+# Home_Credit_Default_Risk\
+# Can you predict how capable each applicant is of repaying a loan?\
+# Data Source: Home Credit Group\
 
 Data Description
 
 •	application_{train|test}.csv
 
-o	This is the main table, broken into two files for Train (with TARGET) and Test (without TARGET). /n
+o	This is the main table, broken into two files for Train (with TARGET) and Test (without TARGET).
 o	Static data for all applications. One row represents one loan in our data sample.
 
 •	bureau.csv
